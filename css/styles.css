@@ -1,0 +1,79 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.top-container {
+  background-color: #e0ebe8;
+  padding: 20px;
+}
+
+.contact-me {
+  background-color: #e0ebe8;
+  padding: 20px;
+}
+
+.bottom-container {
+  background-color: #45b29a;
+  padding: 20px;
+}
+
+h1{
+  margin: 0;
+  font-family: 'Sacramento', cursive;
+/*  color: #45b29a;*/
+  font-size: 65px;
+  margin-top: 3%;
+}
+
+
+.gmail, .whatsapp, .phone{
+  height:25px;
+  width: 35px;
+  margin-right: 5px;
+}
+
+.footer-link{
+  margin-right: 10px;
+  font-size: 20px;
+  font-weight: bold;
+}
+.top-cloud{
+  height: 60px;
+  width: 110px;
+  top: 8px;
+  left: 1220px;
+  position: absolute;
+}
+.bottom-cloud{
+  height: 60px;
+  width: 110px;
+  position: absolute;
+  left: 1205px;
+  top: 30px;
+}
+
+.pro{
+  text-decoration: underline;
+}
+
+table{
+  padding-left: 360px;
+  text-align: left;
+}
+
+.cell1{
+  padding-left: 300px;
+  padding-top: 5px;
+}
+.cell2{
+  padding-left: 100px;
+  padding-top: 5px;
+}
+hr {
+    border-style: dotted none none;
+    border-width: 5px;
+    border-color: #265b74;
+    width: 5%;
+}
